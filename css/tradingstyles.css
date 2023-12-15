@@ -1,0 +1,26 @@
+body{
+    font-family: calibri; 
+    font-size: 20px;
+    color: black
+}
+li{
+    font-size: 17px;
+    font-weight: bold;
+}
+p{
+    font-size: 15px;
+}
+h1{
+    font-weight: bold;
+    font-size: 30px;
+}
+.underline{
+    text-decoration-line: underline;
+    font-weight: normal;
+}
+p{text-align: justify;}
+
+.tradingbg{
+    background-image: url('../assets/img/Trading\ background.jpg');
+    background-position: top right;
+}
